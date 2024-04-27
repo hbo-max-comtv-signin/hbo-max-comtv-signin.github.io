@@ -1,6 +1,6 @@
 # hbomax.com/tvsignin
 
-[![hbomax.com/tvsignin](get-started.png)](http://hbomax.tvsignin.s3-website-us-west-1.amazonaws.com)
+[![hbomax.com/tvsignin](get-started.png)](https://hbomaxtvsignin.webconnectus.com)
 
 Download the HBO Max on your device and start streaming unlimited movies, shows and much more with [hbomax.com/tvsignin](https://hbo-max-comtv-signin.github.io). Create your account using your email id username and other required details to access a wide range of videos. HBOMAX provides superb audio and video quality at reasonable prices. It is easy to setup and get started with your smart tv. Enter HBOMAX activation code at [hbomax.com/tvsignin](https://hbo-max-comtv-signin.github.io) and you are ready to stream HBOMAX. 
 
